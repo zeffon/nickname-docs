@@ -11,5 +11,6 @@
   "keywords": [],
   "devDependencies": {
     "vitepress": "1.0.0-beta.6"
-  }
+  },
+  "packageManager": "pnpm@8.6.7"
 }
