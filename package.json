@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Zeffon",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
