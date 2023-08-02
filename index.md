@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: 取名小神器
-  text: 一个帮你给宝宝取好听名字的小程序
-  tagline: "#小程序://取名小神器/VO3c90IEfpcksrH"
+  text: 一个帮助您给宝宝取好听名字的小程序
+  tagline: 无论您喜欢中国传统文化还是现代时尚名字，我们都能为您提供满意的选择。
   image:
     src: /wechat-code.png
     alt: 小程序码
