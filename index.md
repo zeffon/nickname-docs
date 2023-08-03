@@ -1,6 +1,8 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: 取名小神器
+titleTemplate: 一个帮助您给宝宝取好听名字的小程序
 
 hero:
   name: 取名小神器
